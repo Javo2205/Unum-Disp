@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "901959064594",
+    "firebase_url": "https://unum-90f56.firebaseio.com",
+    "project_id": "unum-90f56",
+    "storage_bucket": "unum-90f56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901959064594:android:3ac5b285506ca056",
+        "android_client_info": {
+          "package_name": "com.example.unum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901959064594-rnsd8s30kf8tqsmf7sgvveni3h4jojof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApSt_bOh1CZeAYABQZRBogecc8bydgFOg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

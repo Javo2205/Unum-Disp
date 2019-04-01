@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Unum</string>
+    <string name="title_activity_home">Unum</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Textos largos -->
+    <string name="DescripcionN"> Unum es una herramienta con el fin de ayudar al usuario a entender y
+     conocer sobre la donacion de sangre, sobre sus requisitos, conociendo los bancos de sangre a su alrededor
+     y la realizacion de un test de aptitud mediante el cual se calificara si el usuario es condiciones para donar sangre.</string>
+
+    <string name="Desarrolladores"> Desarrolladores de Unum: \n\n
+     Dulce Mariangel Soto España \n
+     Edgar Julio Garcia Rodriguez \n
+     Javier Anguiano de Lara</string>
+
+    <string name="Requisitos">
+
+        * Presentar identificacion oficilal con ortografia \n\n
+        * Tener de 18 a 65 años \n\n
+        * No mas de 6 horas de ayuno y evitar alientos grasos dos horas antes de la donacion \n\n
+        * Pesar mas de 50 kilos \n\n
+        * No haberse jecho tatuajes, peroraciones o acupuntura en lo ultimos 12 meses \n\n
+        * No tener sintomas de infeccion: gripa, tos, dolor de garganta, diarrea \n\n
+        * No tomar antibiotico en los ultimos siete dias \n\n
+        * Mujeres: no estar embarazada ni lactando \n\n
+        * No haber tenido cirugias mayores, partos, cesareas o abortos, en los ultimo sseis meses \n\n
+        * No haber recibido sangre en los ultimos 12 meses \n\n
+        * No haber padecido o padecer: VIH/SIDA, infarto al miocardio, arritmias o enfermedad de Chagas \n\n
+        * Acudir de preferencia descansado e hidratado \n\n
+
+    </string>
+
+    <string name="Test">El siguiente test es para medir si el usuario es apto para poder donar sangre. \n Si el usuario en sus resultados obtiene un
+        resultado incorrecto por ende no puede proceder a donar sangre"</string>
+
+
+    <!-- Strings para el quiz -->
+
+    <string name="question">Question</string>
+    <string name="check">Check</string>
+    <string name="correct">Very good!</string>
+    <string name="incorrect">Incorrect...</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="prev">Previous</string>
+    <string name="results">Results</string>
+    <string name="start_over">Start Over</string>
+
+    <array name="all_questions">
+        <item>¿A tomado medicamento en los últimos tres días?;Si;*No</item>
+        <item>¿Se ha realizado algún tatuaje en el último año?;Si;*No</item>
+        <item>¿Pesa más de 50 kilos?;*Si;No</item>
+        <item>¿Presenta problemas de presión arterial?;Si;*No</item>
+        <item>¿A descansado al menos seis horas antes de la donación?;*Si;No</item>
+        <item>Si desea donar sangre el dia de hoy ¿Se encuentra en ayunas?;*Si;No</item>
+        <item>¿A presentado síntomas de fiebre o síntomas parecidos en los últimos siete días?;Si;*No</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
